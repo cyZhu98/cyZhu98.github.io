@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Researcher</title><link>https://example.com/</link><description>Recent content in About on Researcher</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://example.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/about/</guid><description>About Me unfinished&amp;hellip;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Chenyang Zhu</title><link>https://github.com/cyZhu98/</link><description>Recent content in About on Chenyang Zhu</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://github.com/cyZhu98/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://github.com/cyZhu98/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.com/cyZhu98/about/</guid><description>About Me unfinished&amp;hellip;
 Self Introduction if __main__ == &amp;#39;__main__&amp;#39;: print(&amp;#34;It&amp;#39;s Chenyang Zhu&amp;#34;) #include &amp;lt;iostream&amp;gt;int main() { std::cout &amp;lt;&amp;lt; &amp;#34;It&amp;#39;s Chenyang Zhu&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } import &amp;#34;fmt&amp;#34; func main(){ fmt.Println(&amp;#34;It&amp;#39;s Chenyang Zhu&amp;#34;) } 本人本科和硕士都就读于合肥工业大学的计算机与信息学院。
 硕士研究方向为：多模态抑郁症识别，深度学习方面有两篇学术论文，一段竞赛经历和在科大讯飞的实习经历。
 开发方面，熟悉Python、C++、Go和Java，了解前端，熟悉计网操作系统数据库和Redis 项目：C++ Webserver、集群聊天室，MIT6.824分布式系统，牛客社区&amp;hellip;。
@@ -6,7 +6,7 @@ Project Private
 Research Interest Software Development: Backend Development
 Computer Vision;
 Publications Yanrong Guo, Chenyang Zhu, Shijie Hao, Richang Hong:
-Automatic Depression Detection via Learning and Fusing Features From Visual Cues</description></item><item><title>Contact</title><link>https://example.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/contact/</guid><description> Email: foo@xyz.com Phone: +91-123123 Mailing Address 221B, Baker Street
+Automatic Depression Detection via Learning and Fusing Features From Visual Cues</description></item><item><title>Contact</title><link>https://github.com/cyZhu98/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.com/cyZhu98/contact/</guid><description> Email: foo@xyz.com Phone: +91-123123 Mailing Address 221B, Baker Street
 London
 United Kingdom
 Social Facebook Twitter Google+</description></item></channel></rss>
