@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Chenyang Zhu</title><link>https://github.com/cyZhu98/</link><description>Recent content in About on Chenyang Zhu</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://github.com/cyZhu98/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://github.com/cyZhu98/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.com/cyZhu98/about/</guid><description>About Me 我是Chenyang Zhu，本科和硕士都就读于合肥工业大学的计算机与信息学院。硕士研究方向为：多模态抑郁症识别，深度学习方面有两篇学术论文，一段竞赛经历和在科大讯飞的实习经历。开发方面，熟悉Python、C++、Go和Java，熟悉计网操作系统数据库和Redis，项目有C++烂大街webserver、聊天室，mit6.824分布式系统。备战春招ing&amp;hellip;
-Project Private
-Research Interest Software Development: Backend Development
-Computer Vision;
-Publications Yanrong Guo, Chenyang Zhu, Shijie Hao, Richang Hong:
-Automatic Depression Detection via Learning and Fusing Features From Visual Cues
-Yanrong Guo, Chenyang Zhu, Shijie Hao, Richang Hong:
-Education Year 学位 学校 2016-2020 本科 合肥工业大学，电子信息工程 2020-2023 硕士 合肥工业大学，计算机技术 Here is a horizontal rule:</description></item><item><title>Contact</title><link>https://github.com/cyZhu98/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.com/cyZhu98/contact/</guid><description> Email: mail Phone: +86-xxx Mailing Address China
-xx
-xx
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Researcher</title><link>https://example.com/</link><description>Recent content on Researcher</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://example.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/about/</guid><description>About Me This is a Hugo based resume template. You can find the full source code on GitHub.
+Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
+Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description></item><item><title>Contact</title><link>https://example.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/contact/</guid><description> Email: foo@xyz.com Phone: +91-123123 Mailing Address 221B, Baker Street
+London
+United Kingdom
 Social Facebook Twitter Google+</description></item></channel></rss>
